@@ -4,9 +4,9 @@
 git clone https://github.com/TsaoPC/EAI_FinalProject_Group10.git   
 cd EAI_FinalProject_Group10/  
 ## 2. Set up the environment:
-conda create -n Group10_final  
-conda activate Group10_final  
-pip install -r requirements.txt  
+sudo apt update  
+sudo apt install python3-pip -y  
+pip install -r requirements.txt   
 
 ## 3. Run the code:
 python3 result.py  
