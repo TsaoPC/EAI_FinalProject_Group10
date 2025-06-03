@@ -2,7 +2,7 @@
 
 ## 1. Clone the repository:
 git clone https://github.com/TsaoPC/EAI_FinalProject_Group10.git   
-
+cd EAI_FinalProject_Group10/  
 ## 2. Set up the environment:
 conda create -n Group10_final  
 conda activate Group10_final  
