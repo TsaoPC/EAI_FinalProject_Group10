@@ -13,5 +13,5 @@ sudo apt install -y pkg-config libcairo2-dev cmake build-essential
 pip install -r requirements.txt  
  
 ## 3. Run the code:
-confirm VLLM_AVAILABLE = True in line 13 for calculate tupt, VLLM_AVAILABLE = Flase for ppl. 
+confirm VLLM_AVAILABLE = True in line 13 for calculate tupt, VLLM_AVAILABLE = Flase for ppl.  
 python3 result.py
